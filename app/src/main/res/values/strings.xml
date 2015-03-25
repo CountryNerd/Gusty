@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gusty</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Error_Title">Oops! Light Bright Network is Looking for Pegs</string>
+    <string name="error_mes">There was an Error. Please Try again</string>
+    <string name="error_buttontex">OK</string>
+    <string name="network_unavailable_messege">Network is unavailable!</string>
+    <string name="Exeption_caught">"Exception caught: "</string>
+    <string name="Main_ui_code">Main UI code is running</string>
+</resources>
